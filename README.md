@@ -22,21 +22,10 @@
 
    For Basis functions $B(i)$
 
+   <p align="center">   <img src="images/Theory/Equation/Orthogonality1.png"/> </p>
+
+   <p align="center">   <img src="images/Theory/Equation/Orthogonality2.png"/> </p>
    
-
-   $$
-   \int_{\Omega} B_{j}(i) \cdot B_{i}(j)\mathrm{d}i=1(i=j)
-   $$
-
-   
-
-   
-   $$
-   \int_{\Omega} B_{j}(i) \cdot B_{i}(j)\mathrm{d}i=0(i \neq j)
-   $$
-
-   
-
 2. **Rotationally invariant**
 
 ## Precompute Radiance Transfer
@@ -119,3 +108,4 @@ Diffuse interreflection
     <tr>
         <td ><center><img src="images/Result/Rotation/CB with rotation.gif" >Cornell Box</center></td>
     </tr>
+
