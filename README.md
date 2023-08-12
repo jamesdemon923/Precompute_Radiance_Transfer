@@ -22,9 +22,9 @@
 
    For Basis functions $B(i)$
 
-   <p align="center">   <img src="images/Theory/Equation/Orthogonality1.png"/> </p>
+   <img src="images/Theory/Equation/Orthogonality1.png"/>
 
-   <p align="center">   <img src="images/Theory/Equation/Orthogonality2.png"/> </p>
+   <img src="images/Theory/Equation/Orthogonality2.png"/>
    
 2. **Rotationally invariant**
 
@@ -108,4 +108,3 @@ Diffuse interreflection
     <tr>
         <td ><center><img src="images/Result/Rotation/CB with rotation.gif" >Cornell Box</center></td>
     </tr>
-
