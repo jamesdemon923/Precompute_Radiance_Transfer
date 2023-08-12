@@ -20,13 +20,17 @@
 
 1. **Orthogonality**
 
-   For Basis functions $$B(i)$$
+   For Basis functions $B(i)$
 
    
+
    $$
    \int_{\Omega} B_{j}(i) \cdot B_{i}(j)\mathrm{d}i=1(i=j)
    $$
 
+   
+
+   
    $$
    \int_{\Omega} B_{j}(i) \cdot B_{i}(j)\mathrm{d}i=0(i \neq j)
    $$
@@ -115,4 +119,3 @@ Diffuse interreflection
     <tr>
         <td ><center><img src="images/Result/Rotation/CB with rotation.gif" >Cornell Box</center></td>
     </tr>
-
