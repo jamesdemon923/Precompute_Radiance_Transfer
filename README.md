@@ -22,9 +22,9 @@
 
    For Basis functions $B(i)$
 
-   <img src="images/Theory/Equation/Orthogonality1.png"/>
+   <img src="images/Theory/Equation/Orthogonality1.png">
 
-   <img src="images/Theory/Equation/Orthogonality2.png"/>
+   <img src="images/Theory/Equation/Orthogonality2.png">
    
 2. **Rotationally invariant**
 
