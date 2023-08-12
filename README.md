@@ -88,7 +88,7 @@ Diffuse interreflection
 
 <table>
     <tr>
-        <th colspan="2">Environmental light spherical harmonic rotation</th>
+        <th colspan="2">Environmental light spherical harmonic rotation (Clearer versions can be found at images/Result/Rotation/videos)</th>
     </tr>
     <tr>
         <td ><center><img src="images/Result/Rotation/GC with rotation.gif" >Grace Cathedral</center></td>
@@ -102,3 +102,4 @@ Diffuse interreflection
     <tr>
         <td ><center><img src="images/Result/Rotation/CB with rotation.gif" >Cornell Box</center></td>
     </tr>
+
