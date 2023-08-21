@@ -85,10 +85,9 @@ Diffuse interreflection
         <td ><center><img src="images/Result/Static/CB with interBo3.jpg" style="zoom:80%;">Cornell Box Interreflection</center></td>
         <td ><center><img src="images/Result/Static/CB with shadowed.jpg">Cornell Box Shadowed</center></td>
     </tr>
-
 <table>
     <tr>
-        <th colspan="2">Environmental light spherical harmonic rotation (Clearer versions can be found at images/Result/Rotation/videos)</th>
+        <th colspan="2">Environmental light spherical harmonic rotation (The clearer version can be found at images/Result/Rotation/videos)</th>
     </tr>
     <tr>
         <td ><center><img src="images/Result/Rotation/GC with rotation.gif" >Grace Cathedral</center></td>
